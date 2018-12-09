@@ -52,3 +52,6 @@ step 3 : jupyter notebook
 `
 step 4 : Run all cells in the Navigation.ipynb file
 `
+# Acknowledgment
+
+Certain parts of dqn_agent.py,model.py and navigation.ipynb has been partially taken from the Udacity's deep reinforcement learning Nanodegree.
