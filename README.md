@@ -23,7 +23,7 @@ A Dueling Double Q-Network Implementation for solving RL environments in PyTorch
 <ol>
   <li> Python 3.6 :
   <li> PyTorch (0.4,CUDA 9.0) : pip3 install torch torchvision</li>
-  <li> ML-agents (0.4) : Refer to <a href = "https://github.com/Unity-Technologies/ml-agents/">ml-agents</a> for installation```</li>
+  <li> ML-agents (0.4) : Refer to <a href = "https://github.com/Unity-Technologies/ml-agents/">ml-agents</a> for installation</li>
   <li> Numpy (1.14.5) : pip3 install numpy</li>
   <li> Matplotlib (3.0.2) : pip3 install matplotlib</li>
   <li> Jupyter notebook : pip3 install jupyter </li>
